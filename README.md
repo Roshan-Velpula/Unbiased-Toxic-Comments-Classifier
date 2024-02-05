@@ -1,7 +1,8 @@
 # Toxic Comment Classification Project
 ### Overview
 
-This project addresses the critical issue of toxic comments in online platforms. Our solution aims to effectively identify toxic comments and reduce biases associated with specific demographic identities.
+This project addresses the critical issue of toxic comments on online platforms. Our solution aims to effectively identify toxic comments and reduce biases associated with specific demographic identities.
+Here is the link to this [Kaggle competition](https://www.kaggle.com/competitions/toxic-comment-classification-dsba-2023-2)
 
 ### Objectives
 Accurate Identification of Toxicity: Build models to accurately determine toxicity levels in comments. <br>
